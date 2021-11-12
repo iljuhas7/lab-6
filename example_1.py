@@ -4,4 +4,4 @@
 if __name__ == '__main__':
     s = input("Enter a suggestion: ")
     r = s.replace(' ', '_')
-    print("Offer after replacement: {r}")
+    print(f"Offer after replacement: {r}")
